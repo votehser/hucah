@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+target 'hucah' do
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+end
